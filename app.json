@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "•ʚ•κιτκατ•ɞ•",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://telegra.ph/file/ee99f524db8f37cb59d2f.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20458633",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "ffa9733b47864d1926f1cba2dbbfd00e",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6867948665:AAE6qTZUVpQCEVcnPXwwy_vhwf4mvMVVnec",
         "required": true
       },
       "MONGO_DB_URI": {
